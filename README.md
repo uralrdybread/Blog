@@ -1,3 +1,10 @@
+Currently create a standard blog application:
+
+![blogspot](https://github.com/uralrdybread/Blog/assets/48900828/d548f36b-9f64-43f9-b15b-8a2086d35a74)
+
+------------
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
