@@ -1,4 +1,4 @@
-Currently create a standard blog application:
+In progress: a standard blog application
 
 ![blogspot](https://github.com/uralrdybread/Blog/assets/48900828/d548f36b-9f64-43f9-b15b-8a2086d35a74)
 
